@@ -15,6 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
     "@nuxtjs/sentry": "^2.1.0",
+    "@tanakaworld/nuxt-sentry": "tanakaworld/nuxt-sentry#master",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
     "nuxt": "^2.0.0"

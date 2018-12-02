@@ -14,7 +14,7 @@ module.exports = {
   loading: { color: '#fff' },
   css: [],
   plugins: [],
-  modules: ['@nuxtjs/axios', '@nuxtjs/sentry'],
+  modules: ['@nuxtjs/axios', '@tanakaworld/nuxt-sentry'],
   axios: {},
   // sentry: { dsn: process.env.SENTRY_DSN },
   build: {
