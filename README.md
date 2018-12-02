@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+# copy example file for .env and set SENTRY_DSN 
+$ cp .env.example .env
+
 # install dependencies
 $ yarn install
 
