@@ -18,6 +18,9 @@
           target="_blank"
           class="button--grey">GitHub</a>
       </div>
+      <div class="links">
+        <router-link to="pageHasError">PageHasError</router-link>
+      </div>
     </div>
   </section>
 </template>
