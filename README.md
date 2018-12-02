@@ -1,6 +1,6 @@
 # nuxt-sentry-example
 
-> Example project for Nuxt + Sentry
+> Example project for [@tanakaworld/nuxt-sentrya](https://github.com/tanakaworld/nuxt-sentry)
 
 ## Build Setup
 
